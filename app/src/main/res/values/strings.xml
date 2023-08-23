@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Intent</string>
+    <string name="button_text">Next</string>
+    <string name="intent_text">Your Intent work is Successfully.</string>
+</resources>
